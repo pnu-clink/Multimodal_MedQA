@@ -7,7 +7,7 @@
 
 ## 📊 데이터셋: M3-MedQA
 본 연구에서 구축한 데이터셋은 HuggingFace에서 확인할 수 있습니다.
-- **Dataset Link:** [huggingface.co/datasets/사용자ID/Multilingual_MedQA](https://huggingface.co/datasets/사용자ID/Multilingual_MedQA)
+- **Dataset Link:** [huggingface.co/datasets/parksh03/Multimodal_MedQA](https://huggingface.co/datasets/parksh03/Multimodal_MedQA)
 - **규모:** 1,000개의 의료 사례 (이미지 + 5개 국어 질문/선택지)
 - **포맷:** Apache Parquet (Image Embedded)
 
@@ -19,7 +19,7 @@
 ## 🛠️ 시작하기
 ```bash
 # 저장소 복제
-git clone [https://github.com/사용자ID/Multilingual-Medical-VQA-Consistency.git](https://github.com/사용자ID/Multilingual-Medical-VQA-Consistency.git)
+git clone [https://github.com/parksh03/Multimodal_MedQA.git](https://github.com/parksh03/Multimodal_MedQA.git)
 
 # 필수 라이브러리 설치
 pip install -r requirements.txt
