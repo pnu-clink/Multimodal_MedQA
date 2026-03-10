@@ -12,9 +12,8 @@
 - **포맷:** Apache Parquet (Image Embedded)
 
 ## 📂 프로젝트 구조
-- `pipeline/`: 로컬 이미지를 Parquet 포맷으로 변환하고 HuggingFace에 최적화하는 코드
-- `evaluation/`: GPT-4o-mini API를 연동하여 5개 언어별 정답률을 측정하는 스크립트 (업로드 예정)
-- `analysis/`: 언어 간 답변 일치율(Consistency Score) 분석 및 시각화 도구 (업로드 예정)
+- `evaluation/`: GPT-4o-mini API를 연동하여 5개 언어별 정답률을 측정하는 스크립트 
+- `analysis/`: 언어 간 답변 일치율(Consistency Score) 분석 및 시각화 도구 
 
 ## 🛠️ 시작하기
 ```bash
