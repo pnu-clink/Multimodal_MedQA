@@ -27,10 +27,11 @@ pip install -r requirements.txt
 
 🧬 Citation
 본 연구 또는 데이터셋을 인용하실 경우 아래 양식을 사용해 주세요.
-
+```
 @article{Park2026MultilingualMedQA,
       title={Performance and Cross-lingual Consistency Analysis of GPT-4o-mini in Multilingual Medical Visual Question Answering},
       author={Park, Sang-Hyeok},
       year={2026},
       url={[https://huggingface.co/datasets/사용자ID/Multilingual_MedQA](https://huggingface.co/datasets/사용자ID/Multilingual_MedQA)}
 }
+```
