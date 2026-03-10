@@ -32,6 +32,6 @@ pip install -r requirements.txt
       title={Performance and Cross-lingual Consistency Analysis of GPT-4o-mini in Multilingual Medical Visual Question Answering},
       author={Park, Sang-Hyeok},
       year={2026},
-      url={[https://huggingface.co/datasets/사용자ID/Multilingual_MedQA](https://huggingface.co/datasets/사용자ID/Multilingual_MedQA)}
+      url={[https://huggingface.co/datasets/parksh03/Multimodal_MedQA](https://huggingface.co/datasets/parksh03/Multimodal_MedQA)}
 }
 ```
