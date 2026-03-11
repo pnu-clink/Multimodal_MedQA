@@ -1,0 +1,22 @@
+# 1. 데이터 처리 및 수치 분석
+pandas
+numpy
+
+# 2. LLM API 연동 및 네트워크
+openai
+requests
+urllib3
+
+# 3. 텍스트 처리 및 정규표현식
+regex
+
+# 4. 시각화 및 결과 분석 (정확도/일관성 그래프 생성)
+matplotlib
+seaborn
+
+# 5. 환경 관리 및 유틸리티
+python-dotenv
+tqdm
+
+# 6. 통계 분석 (선택 사항 - 일관성 지표 검증용)
+scipy
