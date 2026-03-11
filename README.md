@@ -13,7 +13,8 @@
 
 ## 📂 프로젝트 구조
 - `evaluation/`: GPT-4o-mini API를 연동하여 5개 언어별 정답률을 측정하는 스크립트 
-- `analysis/`: 언어 간 답변 일치율(Consistency Score) 분석 및 시각화 도구 
+- `analysis/`: 언어 간 답변 일치율(Consistency Score) 분석 및 시각화 도구
+- `visualize/`: 최종 결과를 출력해주는 코드
 
 ## 🛠️ 시작하기
 ```bash
