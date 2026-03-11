@@ -13,7 +13,7 @@ else:
 
     report_data = []
 
-    print("📊 실질 정확도(Adjusted Accuracy) 반영 최종 분석 중...")
+    print("📊 정확도(Accuracy) 반영 최종 분석 중...")
 
     for lang in languages:
         resp_col = f"Response_{lang}"
