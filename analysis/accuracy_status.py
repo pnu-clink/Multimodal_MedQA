@@ -54,7 +54,7 @@ else:
     # 5. 결과 요약 출력
     report_df = pd.DataFrame(report_data)
     print("\n" + "="*85)
-    print("🏆 GPT-4o-mini 다국어 의료 추론 실질 정확도 성적표")
+    print("🏆 GPT-4o-mini 다국어 의료 추론 정확도 성적표")
     print("="*85)
     # 가독성을 위해 출력 컬럼 조정
     print(report_df.to_string(index=False))
